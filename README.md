@@ -12,3 +12,5 @@ The expectation for this exercise is that you use Spark 2.x with Scala, Python, 
 5. Using the geohashes, determine if there clusters of people at any point in this dataset. If so, how many people and how close are they?
 6. Write any findings into a local parquet format file for later use. 
 7. *Bonus*: Conduct any additional analysis that might give a hint about the behaviour of the IDFAs in the data set.
+
+Please complete as much of the assignment as you have time for. How long you had time to spend on the challenge and your experience will be considered. Have some fun with it!
