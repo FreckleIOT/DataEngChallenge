@@ -7,7 +7,7 @@ The expectation for this exercise is that you use Spark 2.x with Scala, Python, 
 
 1. Fork this repo with your own id for our review.
 2. Download the dataset here: https://s3.amazonaws.com/freckle-dataeng-challenge/location-data-sample.tar.gz
-3. Answer: What is the max, min, avg, std dev for the location-events per IDFA?
+3. Answer: What is the max, min, avg, std deviation of the number of location events per IDFA? We define a location event to be one record in the sample file. 
 4. Produce geohashes for all coordinates in a new RDD or DataFrame
 5. Using the geohashes, determine if there clusters of people at any point in this dataset. If so, how many people and how close are they?
 6. Write any findings into a local parquet format file for later use. 
